@@ -1,0 +1,10 @@
+--
+-- ePub reader
+--
+-- A reader for rendering text contents
+--
+-- Provides control functions for navidating like:
+-- prev/next page,
+-- prev/next chapter
+-- TOC navidation
+--

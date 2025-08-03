@@ -1,0 +1,6 @@
+--
+-- A manager for managing plugin status data
+--
+-- Provides functions to manage recently reading files,
+-- each ePub file reading process like the read percentage,
+-- read chapter percentage and the read location.
